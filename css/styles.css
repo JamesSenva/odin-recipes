@@ -1,0 +1,44 @@
+body {
+    max-width: 600px;
+    margin-right:auto;
+    margin-left:35%;
+}
+
+
+
+h1, h2, h3, p, li {
+    font-family:Helvetica,sans-serif;
+}
+
+h1 {
+    text-align:center;
+    background-color: red;
+    color:white;
+}
+
+li {
+    margin:5px;
+    font-size:24px;
+}
+
+.left,.center,.right {
+    display:inline;
+    padding:10px;
+    color:rgb(104, 13, 13);
+}
+
+.left {
+    text-align:left;
+}
+
+.center {
+    text-align:center;
+}
+
+.right {
+    text-align:right;
+}
+
+#center {
+    text-align:center;
+}
